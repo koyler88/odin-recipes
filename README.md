@@ -1,0 +1,1 @@
+In this project, I will be creating a recipe website in which I implement various aspects of HTML. I hope to have demonstrated the use of Texts, Lists, Links and Images throughout the process. :)
